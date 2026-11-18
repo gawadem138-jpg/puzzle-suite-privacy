@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy - Puzzle Suite</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.6; color: #111827; }
+    h1, h2 { color: #111827; margin-top: 28px; }
+    p, li { color: #374151; }
+    code { background: #F3F4F6; padding: 2px 6px; border-radius: 4px; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy for Puzzle Suite</h1>
+  <p><strong>Effective Date:</strong> November 18, 2026</p>
+  <p><strong>libe</strong> ("we", "our", or "us") developed <strong>Puzzle Suite</strong> (<code>com.libe.puzzlesuite</code>) as a free, ad-supported mobile game. This Privacy Policy explains how user information is collected, used, and protected.</p>
+
+  <h2>1. Information We Collect &amp; Third-Party Services</h2>
+  <p>You can play all four games in Puzzle Suite (Sudoku, Minesweeper, Tango, and Queens) offline in Guest Mode without creating an account. If you choose to sign in or use online features, the app uses the following third-party services:</p>
+  <ul>
+    <li><strong>Google Sign-In &amp; Firebase Authentication:</strong> When you sign in with Google, we receive your display name, email address, profile photo URL, and unique user ID solely to authenticate your account and sync your progress.</li>
+    <li><strong>Cloud Firestore:</strong> Stores your theme preferences, personal best solve times, and leaderboard rankings.</li>
+    <li><strong>Google AdMob:</strong> Serves banner, interstitial, and rewarded advertisements. AdMob may automatically collect your Android Advertising ID, IP address, and basic device/interaction diagnostics to deliver and measure ads.</li>
+  </ul>
+
+  <h2>2. How We Use Information</h2>
+  <ul>
+    <li>To authenticate your player account and sync saved game progress across sessions.</li>
+    <li>To display personal and global time-based leaderboards.</li>
+    <li>To display non-intrusive advertisements and monitor app stability.</li>
+  </ul>
+
+  <h2>3. Data Security &amp; Retention</h2>
+  <p>All data transmitted between Puzzle Suite, Google Firebase, and Google AdMob is encrypted in transit using HTTPS/TLS. We do not sell your personal information to third parties. Account and score records are retained only while your account remains active.</p>
+
+  <h2>4. Account &amp; Data Deletion</h2>
+  <p>You can permanently delete your Puzzle Suite account and all associated cloud leaderboard data at any time inside the app by going to <strong>Settings &rarr; Delete Account &amp; Cloud Data</strong>. If you no longer have the app installed, you may request complete account and data deletion via the web by emailing <strong>3ytgy34v5b@gmail.com</strong> with the subject line <em>"Delete Puzzle Suite Account"</em> and your Google Sign-In email; all data will be deleted within 7 days.</p>
+
+  <h2>5. Children's Privacy</h2>
+  <p>Puzzle Suite is designed for general audiences aged 13 and older and does not knowingly collect personal data from children under 13.</p>
+
+  <h2>6. Contact Us</h2>
+  <p>For privacy questions or support, contact <strong>libe</strong> at: <strong>3ytgy34v5b@gmail.com</strong></p>
+</body>
+</html>
